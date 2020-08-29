@@ -1,6 +1,7 @@
 @media only screen and (max-width: 600px) {
     #hero-page {
         background-size: contain;
+        padding-top: 125px !important;
     }
 
 }
